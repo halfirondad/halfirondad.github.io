@@ -5,14 +5,14 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-title: Halfiron Dad
+title: Darren Darnell
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: Halfiron Dad
+      title: Darren Darnell
 
 description: Stylish Jekyll Theme
 author:
