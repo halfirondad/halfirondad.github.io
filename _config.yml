@@ -22,7 +22,8 @@ author:
   twitter: halfirondad
   linkedin: dldarnell
   bio: Data guy
-  email_md5: c5f80be5286736854e51ffd887a8616a
+  email_md5: eb6263cb5cf09b39e115b798dfa509c4
+  #  email_md5: c5f80be5286736854e51ffd887a8616a
 
 rss_path: feed.xml
 categories_path: categories.html
