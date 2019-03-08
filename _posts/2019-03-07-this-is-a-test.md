@@ -7,9 +7,16 @@ category:
 tags:
 - 
 ---
+
 This is a test
 
-It has 2 lines
+It has several lines
+
+Here's a fun link, https://guides.github.com/features/mastering-markdown/
+
+**This is in bold**
+
+_This is italic_
 
     def foo
       puts 'foo'
