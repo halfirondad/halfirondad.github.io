@@ -11,11 +11,20 @@ This is a test
 
 It has 2 lines
 
-**This is a Bold tag
+##This is a Bold tag (double pound)
 
 _ this is an italic tag
 
 - List item 1
 - List item 2
 
-> code sample
+> quote example
+> quote line 2
+
+Below is a code extract
+
+    Sdfjklasjdf
+    Lasdkjflkasdj
+    Alksdjflkasdjf
+
+That's about everything
