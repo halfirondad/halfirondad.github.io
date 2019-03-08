@@ -17,3 +17,5 @@ _ this is an italic tag
 
 - List item 1
 - List item 2
+
+> code sample
