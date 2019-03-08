@@ -12,3 +12,8 @@ This is a test
 It has 2 lines
 
 **This is a Bold tag
+
+_ this is an italic tag
+
+- List item 1
+- List item 2
