@@ -12,7 +12,7 @@ This is a test
 
 It has several lines
 
-Here's a fun link, https://guides.github.com/features/mastering-markdown/
+Here's a fun link, https://guides.github.com/features/mastering-markdown/ 
 
 **This is in bold**
 
